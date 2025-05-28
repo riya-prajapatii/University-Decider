@@ -1,0 +1,25 @@
+University,City,T1 Avg Temp,T2 Avg Temp,T3 Avg Temp,Total SY Snow,Total SY Rain
+ Massachusetts Institute of Technology (MIT),Cambridge,40.7,32.7,56.8,40.3,31.1
+ Harvard University,Cambridge,40.7,32.7,56.8,40.3,31.1
+ Stanford University,Stanford,45.1,52.6,58.4,0.0,13.8
+ California Institute of Technology (Caltech),Pasadena,48.9,53.5,64.0,0.2,10.1
+ University of Pennsylvania,Philadelphia,43.3,37.5,63.7,20.1,29.6
+" University of California, Berkeley (UCB)",Berkeley,45.0,52.3,59.5,0.0,12.4
+ Cornell University,Ithaca,37.9,27.6,56.4,67.7,30.7
+ University of Chicago,Chicago,41.3,28.4,55.2,32.9,29.0
+ Princeton University,Princeton,43.0,36.9,62.9,22.3,29.9
+ Yale University,New Haven,42.6,33.7,56.7,28.8,36.2
+ Johns Hopkins University,Baltimore,44.2,38.0,63.5,14.5,32.2
+ Columbia University,New York City,43.0,35.2,61.8,25.1,29.6
+" University of California, Los Angeles (UCLA)",Los Angeles,50.2,56.8,65.2,0.0,8.9
+ New York University (NYU),New York City,43.0,35.2,61.8,25.1,29.6
+ University of Michigan-Ann Arbor,Ann Arbor,38.6,29.2,58.6,35.4,25.3
+ Northwestern University,Evanston,40.4,29.5,58.2,30.4,26.8
+ Carnegie Mellon University,Pittsburgh,40.1,33.9,60.7,28.5,34.6
+ Duke University,Durham,46.0,45.6,68.4,4.5,30.2
+ University of Texas at Austin,Austin,52.1,55.7,75.3,0.2,26.9
+ University of Illinois Urbana-Champaign,Champaign,41.5,33.9,63.6,15.8,29.8
+" University of California, San Diego (UCSD)",San Diego,49.2,57.4,61.9,0.0,7.2
+ University of Washington,Seattle,39.7,44.1,55.5,5.2,38.1
+ Brown University,Providence,40.7,33.1,58.2,35.8,30.2
+ Pennsylvania State University,University Park,39.9,30.8,60.6,27.0,28.4
